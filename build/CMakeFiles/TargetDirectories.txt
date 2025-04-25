@@ -1,0 +1,3 @@
+/Users/tateytatetate/Desktop/MusicLibrary/build/CMakeFiles/my_clay_app.dir
+/Users/tateytatetate/Desktop/MusicLibrary/build/CMakeFiles/edit_cache.dir
+/Users/tateytatetate/Desktop/MusicLibrary/build/CMakeFiles/rebuild_cache.dir
